@@ -26,5 +26,5 @@ Comment
 
 # Application Deployment
 Github repo - https://github.com/elizabethodell/tech-blog.git
-Application link - https://elizabethodell.github.io/tech-blog/
+Application link - https://blooming-wave-66318.herokuapp.com/
 
